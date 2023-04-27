@@ -14,7 +14,7 @@ def get_unique_industries(path: str) -> List[str]:
     Returns
     -------
     list
-        List of unique industries
+        List of unique industriess
     """
     raise NotImplementedError
 
