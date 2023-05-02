@@ -51,11 +51,6 @@ def brazilians_jobs_mock():
             "type": "full time"
         },
         {
-            "title": "Gerente comercial",
-            "salary": "5000",
-            "type": "full time"
-        },
-        {
             "title": "Analista de Departamento Pessoal",
             "salary": "4000",
             "type": "full time"
